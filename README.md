@@ -23,15 +23,19 @@ Will be upgraded to web
 ### Install dependencies:  
 
 ```sh
-install virtualenv if u dont have yet
+- install virtualenv if u dont have yet
 py -m pip install virtualenv
 python -m pip install --upgrade pip
 
-run the code below
+- run the code below
 py -m virtualenv venv
 
-activate env
+- activate env
 . venv\scripts\activate
+
+- install requirements
+pip install -r requirements.txt
+
 
 
 ```
