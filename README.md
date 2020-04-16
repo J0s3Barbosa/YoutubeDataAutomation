@@ -1,5 +1,5 @@
 ### YoutubeDataAutomation
-python using selenum framework to get data from youtube
+python project using selenum framework to get data from youtube
 
 
 ### About the project: 
